@@ -7,4 +7,6 @@ python-dotenv
 pyaudio
 soundfile
 SpeechRecognition
-SpeechRecognition[whisper-local]
+git+https://github.com/openai/whisper.git
+Pillow
+numpy
